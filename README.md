@@ -29,3 +29,5 @@ while doomsday>now:
 import webbrowser
 url='https://www.youtube.com/watch?v=NdGjaTHUbx0'
 webbrowser.open(url)
+First try to open up a problem, 
+welocome in our messy project! 
